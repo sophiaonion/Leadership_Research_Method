@@ -1,0 +1,7 @@
+a.If you were the leader, how excited would you be about being in this position?
+b.If you were the leader, how anxious would you be about being in this position?
+c.If you were the leader, how well do you think you would do in the position?
+d.If you were the leader, how positively do you think other people would respond to you?
+e.If you were the leader, would you feel prepared to take on the leadership position?
+f.If you were the leader, how nervous would you be to give negative feedback?
+g.If you were the leader, would encountering conflict make you anxious?
